@@ -28,7 +28,7 @@
 
 .inner-container {
     height: 30%;
-    width: 50%;
+    width: 40%;
     background-color: rgb(240, 138, 138);
     display: grid;
     grid-template-columns: repeat(6, 1fr);
